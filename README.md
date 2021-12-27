@@ -7,3 +7,5 @@ Frankly, Ren'Py was not the right engine for this game. I was thinking I could d
 I'll either remake this game in GameMaker Studio or stop the project all together. Granted, Ren'Py is a fantastic game engine and a great way to learn the basics of programming or for making visual novels. 
 
 I've included the source files in case there is an issue with the build files. I guess when installing from a package manager on Linux some of the needed build files are missing. ¯\\_(ツ)_/¯
+
+Also, it's kinda a bummer I couldn't get the web porting tools to work but if somone else could that'd be neat. 
